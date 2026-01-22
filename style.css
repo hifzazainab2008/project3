@@ -27,6 +27,7 @@ html,body{
 .textbg{
     background-color: aquamarine;
     color: blue;
+    padding:8px 15px ;
 }
 section{
     padding: 50px 80px;
@@ -52,7 +53,7 @@ section{
     font-size: 27px ;
     text-transform: uppercase;
 }
-.textbg1{
+.textbg1{padding:8px 15px ;
     background-color: chocolate;
     color: green;
 
@@ -73,7 +74,7 @@ section{
 }
 .textbg2{
     background-color:greenyellow;
-    color: yellow;
+    color: yellow;padding:8px 15px ;
 
 }
 .four{padding: 50px 80px;
@@ -112,4 +113,5 @@ background-attachment: fixed;
 .textbg3{
     background-color: blueviolet;
     color: palevioletred;
+    padding:8px 15px ;
 }
